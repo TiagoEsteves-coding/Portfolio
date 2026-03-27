@@ -1,7 +1,7 @@
 # MSc Project – Development of a Heart Disease Prediction Mobile App
 
 ## Overview
-This MSc project focuses on developing an AI-based system for predicting cardiovascular disease (CVD) and providing personalised medical advice. The work combines traditional machine learning models with Large Language Models (LLMs) and explores their integration into a mobile application.
+This MSc project focuses on developing an AI-based system to predict cardiovascular disease (CVD) and provide personalised medical advice. The work combines traditional machine learning models with Large Language Models (LLMs) and explores their integration into a mobile application.
 
 ## Problem
 Cardiovascular diseases remain the leading cause of global mortality. While ML models have shown strong performance in early risk prediction, the use of LLMs for structured medical data and personalised advice is still underexplored.
