@@ -1,7 +1,7 @@
 # BSc Project – Development of a Heart Disease Prediction System
 
 ## Overview
-This BSc project focuses on the development of an AI–based desktop application for predicting heart disease risk using Artificial Neural Networks (ANNs). The system is designed to support early risk assessment using structured medical data.
+This BSc project focuses on the development of an AI-based desktop application for predicting heart disease risk using Artificial Neural Networks (ANNs). The system is designed to support early risk assessment using structured medical data.
 
 ## Problem
 Cardiovascular diseases are a leading cause of mortality worldwide. Existing systems often struggle with accuracy and usability, particularly when deployed at scale. This project investigates whether ANNs can improve prediction reliability while remaining accessible through a simple desktop interface.
